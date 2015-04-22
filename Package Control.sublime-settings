@@ -1,0 +1,22 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Colorcoder",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"Emmet",
+		"Emmet Style Reflector",
+		"FixMyJS",
+		"Package Control",
+		"SublimeGit",
+		"Theme - Soda",
+		"TrailingSpaces"
+	]
+}
